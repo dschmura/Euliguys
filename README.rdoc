@@ -1,0 +1,44 @@
+== README
+
+#Summary
+
+One night (July 16th, 2015), a couple of friends gathered to do what these friends typically do when they gathered...drink and shovel bovine excrement. It is not clear (nor useful to track) how the conversation turned to eugilies, but it was agreed that there are several problems with how we approach eulogies.
+
+People tend to wait to write a eulogy until after someone has died. This has several knock-off problems.
+
+First, you are writing under a time constraint. There is a lot of arrangements that need to be tended to in the wake (pun acknowledged) of a death. Funeral arrangments, announcements, donations, wills etc... Add to this trying to engagingly capture the essence of the deceased in a relatively short, coherent piece can be difficult.
+
+Second, in a lot of cases, you are grieving the deceased yourself. Grief can be a lot of things. Shocking, confusing, filled with mixed emotions, and exhausting. Not the optimal emotional space for producing your best written content.
+
+Third, you have to pick. Not everyone can give the eulogy. It would take too long during the service. As a result, someone is selected to write and deliver 'the' eulogy. This can deprive others who are bereaved from the opportunity to express their own appreciation for the deceased.
+
+Finally, eulogies are are wasted on the living. The deceased rarely get the opportunity to hear how people eulogize them. Occasionally, in a movie where the inidividual is only thought to be dead, a person gets to hear (or read) how other people remember them.
+
+We set out to fix all of this with Euliguys. Euliguys is a social eulogy sharing app that lets you share the impact your friends and loved ones have on your life. Write your eulogy, tag your friends, and share it with the world.
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
